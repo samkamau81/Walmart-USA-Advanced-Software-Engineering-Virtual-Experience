@@ -2,7 +2,7 @@ package org.example;
 
 //max heap data structure
 //By Samuel Waweru
-// For Walmatt USA Virtual Experience
+// For Walmart USA Virtual Experience
 public class Main {
     static void heapify(int arr[], int N, int i)
     {
